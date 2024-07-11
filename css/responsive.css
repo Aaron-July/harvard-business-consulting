@@ -25630,13 +25630,14 @@
 
   }
 
+  
   [data-mobile-nav-style=modern] .navbar-modern-inner .navbar-collapse {
     position: static;
     left: 0;
     top: 0;
     width: 100%;
     height: 100%;
-    background: #21406e;
+    background: #242E45;
     padding: 100px 50px;
     box-shadow: none;
     max-height: 100%;
